@@ -1,0 +1,51 @@
+body{
+  font-size: 30px;
+  background-color: black;
+  position: relative;
+  top: 0px;
+}
+header{
+  background-color: tomato;
+  position: relative;
+  bottom: 5px;
+}
+.container{
+  background-color: slategray;
+  height: 300px;
+  border-radius: 10px;
+  position: relative;
+  top: 100px;
+  
+}
+input{
+  border-radius: 5px;
+  outline: 0px;
+  border: 0px;
+  height: 30px;
+  position: relative;
+  bottom: 10px;
+  
+}
+button{
+  display: block;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  border: 0px;
+  outline: 0px;
+  width: 230px;
+  height: 35px;
+  position: relative;
+  top: 15px;
+}
+h1{
+  position: relative;
+  top: 20px;
+  color: white;
+}
+p{
+  font-size: 15px;
+  position: relative;
+  top: 10px;
+  color: blue;
+}
